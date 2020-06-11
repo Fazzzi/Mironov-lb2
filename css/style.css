@@ -1,0 +1,101 @@
+﻿#style1 {
+background: #000000;
+border-bottom: 1px solid #000000;
+height: 45px;
+position: relative;
+z-index: 40;
+padding: 10px 0;
+}
+
+#wrap {
+
+    margin: 10px auto 0;
+    min-width: 980px;
+    max-width: 1020px;
+
+}
+
+#style3 {
+    margin: 20px 0px;
+    padding: 0;
+    width: 980px;
+    position: relative;
+
+}
+
+#style2 {
+
+    clear: both;
+    float: left;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-align: left;
+    width: 100%;
+}
+
+#style2 span {
+
+    border-bottom: 2px solid #fff;
+    color: #000;
+    font-weight: 700;
+    list-style: outside none none;
+    padding: 10px 20px;
+    float: left;
+    display: block;
+    background: #fff;
+    border-radius: 5px 5px 0 0;
+
+}
+
+#style2 a:hover {
+
+    border-bottom: 2px solid;
+    color:#FF0000;
+    text-decoration: none;
+}
+
+#style2 a {
+
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 15;
+    font-weight: 400;
+    float: left;
+    display: block;
+    color: #FF0000;
+}
+
+#style5 {
+
+    background: #fff;
+    margin: 0 0 10px;
+    padding: 0 20px;
+    box-shadow: 0 0 5px #ddd;
+    clear: both;
+    border-radius: 0 5px 5px;
+}
+
+#zagolovok {
+
+    clear: both;
+    color:#808080;
+    font-family: sans-serif;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 0 0;
+    z-index: 60;
+    position: relative;
+
+}
+#footer { 
+                background: #696969;
+                padding: 3px; 
+                color: #000000; 
+                clear: left; 
+                text-align: left;
+                position: relative;
+                width: 100%;
+                bottom: 0%;
+            }
+

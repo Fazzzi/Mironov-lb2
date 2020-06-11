@@ -1,0 +1,8 @@
+ #layer {
+    overflow-x: scroll; /* Добавляем полосу прокрутки */
+    width: 925px; /* Ширина блока */
+    height: 560px; /* Высота блока */
+    padding: 5px; /* Поля вокруг текста */
+    border: solid 1px black; /* Параметры рамки */
+    white-space: nowrap; /* Запрещаем перенос строк */
+   } 
